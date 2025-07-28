@@ -1,4 +1,4 @@
 # Port-Folio #
-![Click On VPC](Images\VU Resume 1.jpg)
+![](Images\Resume1.jpg)
 
-![Click On VPC](2.jpg)
+![](Images/Resume2.jpg)
