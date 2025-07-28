@@ -1,4 +1,4 @@
 # Port-Folio #
-![](Images\Resume1.jpg)
+![](Resume1.jpg)
 
-![](Images/Resume2.jpg)
+![](Resume2.jpg)
